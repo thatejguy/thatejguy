@@ -1,4 +1,4 @@
-## Hi there 👋
+## spying on my profile are we? 🔍🕵️
 
 <!--
 **thatejguy/thatejguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
