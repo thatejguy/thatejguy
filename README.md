@@ -1,5 +1,5 @@
 ## spying on my profile are we? 🔍🕵️
-okkk. I like...
+well here's what I like doing.
 - writing a story about a girl 🌕
 - making stuff in blender 🚀
 - procrastinating my code 💔
