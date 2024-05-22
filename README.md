@@ -11,7 +11,7 @@ im not giving you my name but heres some things about me 😉
 
 ## specs 😎
 <p>Arch & Bazzite  🍊 | 3800X & 7800 XT | 32GB | 6.5TB  💿</p>
-<p>SteamOS  💜 | AMD Aerith | 16GB | 512GB  💾</p>
+<p>SteamOS  💜 | Aerith | 16GB | 512GB  💾</p>
 <p>Asahi  💯 | M1 (7) | 8GB | 256GB  💽</p>
 
 <!--
