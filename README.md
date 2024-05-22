@@ -7,7 +7,9 @@ i like...
 - procrastinating my code 💔
 - tinkering with linux 🌀
 ## what i use 😎
-dual boot Arch & Bazzite 🍊 3800X & 7800 XT 16GB | 32GB | 6.5TB 
+Arch & Bazzite 🍊 | 3800X & 7800 XT 16GB | 32GB | 6.5TB 💿
+SteamOS 💜 | AMD Aerith | 16GB | 512GB 💾
+Asahi 💯 | M1 (7) | 8GB | 256GB 💽
 
 <!--
 **thatejguy/thatejguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
