@@ -1,7 +1,8 @@
 ## spying on my profile are we? 🔍🕵️
 okkk. I like...
-- writing a story about a girl 🌕      -playing roguelites 👾 🕹️
+- writing a story about a girl 🌕
 - making stuff in blender 🚀
+- procrastinating my code 💔
 - tinkering with linux 🐧
 
 <!--
