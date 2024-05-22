@@ -1,7 +1,8 @@
 ## spying on my profile are we? 🔍🕵️
- - writing ✏️
- - coding ⌨️
- - tinkering 🌲
+okkk. I like...
+- writing a story about 🌕
+- making stuff in blender 🚀
+- tinkering with linux 🐧
 
 <!--
 **thatejguy/thatejguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
