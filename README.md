@@ -3,7 +3,7 @@ well here's what I like doing.
 - writing a story about a girl 🌕
 - making stuff in blender 🚀
 - procrastinating my code 💔
-- tinkering with linux 🐧
+- tinkering with computers 🌀 & linux 🐧
 
 <!--
 **thatejguy/thatejguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
