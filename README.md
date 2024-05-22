@@ -10,9 +10,9 @@ im not giving you my name but heres some things about me 😉
 - listening to game soundtracks 🎶 (underrated)
 
 ## what i use 😎
-<p>Arch & Bazzite 🍊 | 3800X & 7800 XT | 32GB | 6.5TB 💿</p>
-<p>SteamOS 💜 | AMD Aerith | 16GB | 512GB 💾</p>
-<p>Asahi 💯 | M1 (7) | 8GB | 256GB 💽</p>
+<p>Arch & Bazzite  🍊 | 3800X & 7800 XT | 32GB | 6.5TB  💿</p>
+<p>SteamOS  💜 | AMD Aerith | 16GB | 512GB  💾</p>
+<p>Asahi  💯 | M1 (7) | 8GB | 256GB  💽</p>
 
 <!--
 **thatejguy/thatejguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
