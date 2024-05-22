@@ -7,6 +7,7 @@ im not giving you my name but heres some things about me 😉
 - making random things in blender 🌲
 - procrastinating my code 💔
 - tinkering with linux 🌀
+- listening to game soundtracks 🎶 (underrated)
 
 ## what i use 😎
 <p>Arch & Bazzite 🍊 | 3800X & 7800 XT | 32GB | 6.5TB 💿</p>
