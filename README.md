@@ -1,5 +1,13 @@
 ## hi 👋 ☺️
 im not giving you my name but heres some things about me 😉
+i like...
+- writing about 🌕 and her story
+- playing ROGUELITES/LIKES 🕹️ 👾
+- making random things in blender 🌲
+- procrastinating my code 💔
+- tinkering with linux 🌀
+## what i use 😎
+dual boot Arch & Bazzite 🍊 3800X & 7800 XT 16GB | 32GB | 6.5TB 
 
 <!--
 **thatejguy/thatejguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
