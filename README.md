@@ -2,7 +2,7 @@
 im not giving you my name but heres some things about me 😉
 <p>i like...</p>
 
-- writing about 🌕 and her story
+- writing about [] and her story
 - playing ROGUELITES/LIKES 🕹️ 👾
 - making random things in blender 🌲
 - procrastinating my code 💔
