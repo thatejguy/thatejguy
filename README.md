@@ -1,19 +1,3 @@
-## hi 👋 ☺️
-im not giving you my name but heres some things about me 😉
-<p>i like...</p>
-
-- writing about [] and her story
-- playing ROGUELITES/LIKES 🕹️ 👾
-- making random things in blender 🌲
-- procrastinating my code 💔
-- tinkering with linux 🌀
-- listening to game soundtracks 🎶 (underrated)
-
-## specs 😎
-<p>Fedora  🍊 | 3800X & 7800 XT + 2070S | 32GB | 6.5TB  💿</p>
-<p>SteamOS  💜 | Aerith | 16GB | 512GB  💾</p>
-<p>Asahi  💯 | M1 (7) | 8GB | 256GB  💽</p>
-
 <!--
 **thatejguy/thatejguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
